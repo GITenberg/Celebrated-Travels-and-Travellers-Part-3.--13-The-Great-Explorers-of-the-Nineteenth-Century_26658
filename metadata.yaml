@@ -1,0 +1,62 @@
+_repo: Celebrated-Travels-and-Travellers-Part-3.--13-The-Great-Explorers-of-the-Nineteenth-Century_26658
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Benett, Léon
+    aliases:
+    - Benett, L. (Léon)
+    - Benett, Leon
+    - Benet, Hippolyte Léon
+    - Bennett, L. (Léon)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '26727'
+    url: http://www.gutenberg.org/2009/agents/26727
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/L%C3%A9on_Benett
+    - http://en.wikipedia.org/wiki/L%C3%A9on_Benett
+  translator:
+    agent_name: D'Anvers, N.
+    aliases:
+    - Bell, Nancy R. E. Meugens
+    - Bell, Mrs. Arthur
+    - Bell, Mrs. Arthur G.
+    - Bell, Nancy
+    deathdate: 1933
+    gutenberg_agent_id: '1165'
+    url: http://www.gutenberg.org/2009/agents/1165
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: ''
+gutenberg_issued: '2008-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Discoveries in geography'
+- !lcsh 'Voyages and travels'
+- !lcc 'G'
+- !lcsh 'Explorers'
+title: "Celebrated Travels and Travellers, Part 3.\r\nThe Great Explorers of the Nineteenth\
+  \ Century"
+url: http://www.gutenberg.org/ebooks/26658
