@@ -44,6 +44,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26658#Celebrated-Travels-and-Travellers-Part-3.--13-The-Great-Explorers-of-the-Nineteenth-Century
 gutenberg_issued: '2008-09-19'
 gutenberg_type: Text
 identifiers:
